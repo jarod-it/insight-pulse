@@ -17,7 +17,7 @@ Clone le projet :
 
 git clone [https://github.com/jarod-it/insight-pulse.git]
 
-cd clicker
+cd insight-pulse
 
 # 🧑‍💻 Auteur
 
